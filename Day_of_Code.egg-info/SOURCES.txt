@@ -1,0 +1,6 @@
+README.md
+Day_of_Code.egg-info/PKG-INFO
+Day_of_Code.egg-info/SOURCES.txt
+Day_of_Code.egg-info/dependency_links.txt
+Day_of_Code.egg-info/requires.txt
+Day_of_Code.egg-info/top_level.txt
