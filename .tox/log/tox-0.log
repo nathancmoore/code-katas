@@ -1,0 +1,39 @@
+actionid: tox
+msg: packaging
+cmdargs: ['/usr/bin/python3', local('/home/nathan/codefellows/401/code-katas/setup.py'), 'sdist', '--formats=zip', '--dist-dir', local('/home/nathan/codefellows/401/code-katas/.tox/dist')]
+env: None
+
+running sdist
+running egg_info
+writing src/code_katas.egg-info/PKG-INFO
+writing dependency_links to src/code_katas.egg-info/dependency_links.txt
+writing requirements to src/code_katas.egg-info/requires.txt
+writing top-level names to src/code_katas.egg-info/top_level.txt
+reading manifest file 'src/code_katas.egg-info/SOURCES.txt'
+writing manifest file 'src/code_katas.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt
+
+running check
+warning: check: missing required meta-data: url
+
+creating code_katas-0.0.0
+creating code_katas-0.0.0/src
+creating code_katas-0.0.0/src/code_katas.egg-info
+copying files to code_katas-0.0.0...
+copying setup.py -> code_katas-0.0.0
+copying src/code_katas.egg-info/PKG-INFO -> code_katas-0.0.0/src/code_katas.egg-info
+copying src/code_katas.egg-info/SOURCES.txt -> code_katas-0.0.0/src/code_katas.egg-info
+copying src/code_katas.egg-info/dependency_links.txt -> code_katas-0.0.0/src/code_katas.egg-info
+copying src/code_katas.egg-info/requires.txt -> code_katas-0.0.0/src/code_katas.egg-info
+copying src/code_katas.egg-info/top_level.txt -> code_katas-0.0.0/src/code_katas.egg-info
+Writing code_katas-0.0.0/setup.cfg
+creating '.tox/dist/code_katas-0.0.0.zip' and adding 'code_katas-0.0.0' to it
+adding 'code_katas-0.0.0/PKG-INFO'
+adding 'code_katas-0.0.0/setup.py'
+adding 'code_katas-0.0.0/setup.cfg'
+adding 'code_katas-0.0.0/src/code_katas.egg-info/PKG-INFO'
+adding 'code_katas-0.0.0/src/code_katas.egg-info/top_level.txt'
+adding 'code_katas-0.0.0/src/code_katas.egg-info/dependency_links.txt'
+adding 'code_katas-0.0.0/src/code_katas.egg-info/SOURCES.txt'
+adding 'code_katas-0.0.0/src/code_katas.egg-info/requires.txt'
+removing 'code_katas-0.0.0' (and everything under it)

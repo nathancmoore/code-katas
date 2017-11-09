@@ -4,6 +4,7 @@ from setuptools import setup
 setup(
     name='code_katas',
     description='Various katas from codewars',
+    package_dir={'': 'src'},
     author='Nathan Moore',
     author_email='ncmoore1986@gmail.com',
     install_requires=[],
