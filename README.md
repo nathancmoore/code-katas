@@ -41,3 +41,9 @@
 - **Module**: `dubstep/dubstep.py`
 - **Tests**: `dubstep/test_dubstep.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/551dc350bf4e526099000ae5)
+
+**Sum of the first nth term of Series (7th kyu)**
+
+- **Module**: `sum_of_series/series.py`
+- **Tests**: `sum_of_series/test_series.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/555eded1ad94b00403000071)
